@@ -31,6 +31,9 @@ set expandtab
 " reproduce the indentation of the previous line:
 set autoindent
 
+" show line numbers 
+set number
+
 " keep indentation produced by 'autoindent' if leaving the line blank:
 " set cpoptions+=I
 
